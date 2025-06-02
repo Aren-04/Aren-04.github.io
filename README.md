@@ -1,4 +1,4 @@
-# Landing_Page
+# Deploying Static Website
 
 ## DriveEase - Car Rental Landing Page
 
